@@ -1,0 +1,136 @@
+.GOD{
+    text-align: center;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head{
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+.head_text{
+    margin: 50px;
+    color: #828282;
+    text-decoration: none;
+}
+
+.home_text{
+
+    display: flex;
+    text-align: left;
+}
+.den_img{
+    width:943.61px ;
+    height: 387px;
+    text-align: center;
+    }
+.Den{
+    font-size: 32px;
+    font-weight: bolder;
+    padding-right: 200px;
+    }
+
+.His{
+    width: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 25px;
+    text-align: center;
+
+}
+
+.ru{
+    margin-left: 425px;
+    padding-bottom: 100px;
+    text-align: right;
+    transform: rotate(-90deg);
+}
+.About_me{
+    margin-top: 150px;
+    font-size: 32px;
+}
+
+.titl_skills{
+    margin-top: 150px;
+    font-size: 32px;
+}
+.text_skills{
+    margin-top: 75px;
+    font-size: 18px;
+}
+
+.img_skil{
+    margin-top: 75px;
+    width: 170px;
+    height: 200px;
+    display: flex;
+    
+}
+.img_skills{
+    margin-right: 100px;
+}
+
+.Portfolio{
+    margin-top: 150px;
+    margin-bottom: 100px;
+    font-size: 32px;
+}
+
+.img_p{
+    width: 936px;
+    height: 522px;
+    text-align: center;
+}
+
+.text_p{
+    text-decoration: underline;
+    margin-bottom: 100px;
+    font-size: 18px;
+}
+.text_a{
+    font-size: 18px;
+}
+
+.cont{
+    font-size: 32px;
+}
+.cont_text{
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+.send{
+    margin: 10px;
+    padding: 10px;
+    border-color: black;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 50px;
+}
+
+.Contacts{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.img_footer{
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+}
+
+.create-line {
+    margin-left: 25px;
+    text-align: center;
+    width: 900px;
+    border-top: 1px solid #828282;
+
+  }
+  
+  .text_footer{
+    font-size: 14px;
+    color: #828282;
+  }
